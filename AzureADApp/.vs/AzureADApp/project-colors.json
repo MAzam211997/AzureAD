@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a38e5137-5583-4e53-ab20-dc0e93986a6f": {
+      "ProjectGuid": "a38e5137-5583-4e53-ab20-dc0e93986a6f",
+      "DisplayName": "AzureADApp",
+      "ColorIndex": 0
+    },
+    "9cc83dd4-8e3e-43b7-93f4-1f87f1b45d2d": {
+      "ProjectGuid": "9cc83dd4-8e3e-43b7-93f4-1f87f1b45d2d",
+      "DisplayName": "AzureAdWebApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
