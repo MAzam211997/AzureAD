@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureADApp", "AzureADApp\AzureADApp.csproj", "{A38E5137-5583-4E53-AB20-DC0E93986A6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAdWebApp", "AzureAdWebApp\AzureAdWebApp.csproj", "{9CC83DD4-8E3E-43B7-93F4-1F87F1B45D2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureAdWebApp", "AzureAdWebApp\AzureAdWebApp.csproj", "{9CC83DD4-8E3E-43B7-93F4-1F87F1B45D2D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
